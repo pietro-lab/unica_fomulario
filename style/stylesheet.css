@@ -1,0 +1,75 @@
+html, body {
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 15px;
+  }
+  .formulario {
+  border: 5px solid #f1f1f1;
+  border-radius: 20px;
+  box-shadow:         9px 7px 5px rgba(50, 50, 50, 0.77);
+  position: relative;
+  top: 6vh;
+  width: 300px;
+  left: 40vw;
+  }
+  form{
+    font-size: 18px;
+  }
+  input[type=text], input[type=password] {
+  width: 100%;
+  padding: 16px 8px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  }
+  #rodape{
+    position: relative;
+    top: 12vh;
+    left: 35%;
+  }
+  .botao {
+  background-color: #8ebf42;
+  color: white;
+  padding: 14px 0;
+  margin: 10px 0;
+  border: none;
+  cursor: grabbing;
+  width: 100%;
+  font-size: 18px;
+  }
+  h1 {
+  text-align:center;
+  font-size: 18px;
+  }
+  .botao:hover {
+  opacity: 0.8;
+  }
+  .formcontainer {
+  text-align: left;
+  margin: 24px 50px 12px;
+  }
+  .container {
+  padding: 16px 0;
+  text-align:left;
+  }
+  span.psw {
+  float: right;
+  padding-top: 0;
+  padding-right: 15px;
+  }
+  a{
+  color: #8ebf42;
+  }
+  a:hover{
+    opacity: 0.8;
+  }
+  #header{
+    background-image: url("img/banner.PNG");
+    height:120px ;
+    width: 100%;
+    position: relative;
+    top: 0px;
+  }
+  /* Change styles for span on extra small screens */
+  
+
